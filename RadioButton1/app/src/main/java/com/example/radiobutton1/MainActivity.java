@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
                     case R.id.rdbStudent:
                         outputStr += "學生票\n";
                         break;
-                } */
+                }*/
                 if(type.getCheckedRadioButtonId() == R.id.rdbAdult)
                     outputStr += "全票\n";
                 else if(type.getCheckedRadioButtonId() == R.id.rdbChild)
