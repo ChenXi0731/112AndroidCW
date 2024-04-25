@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "CH5_5"
 include(":app")
+include(":app")
  
